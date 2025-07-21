@@ -2,6 +2,7 @@
 A fun and interactive text-based game built in Python where the computer picks a secret password, and the user tries to guess it!
 
 🚀 What This Project Does:
+
 1. The computer randomly chooses a secret word (e.g., banana).
 2. The user keeps guessing the word.
 3. After each guess, the game gives smart hints:
@@ -12,6 +13,7 @@ A fun and interactive text-based game built in Python where the computer picks a
 6. Includes difficulty levels — shorter or longer passwords for an added challenge!
 
 🔍 How It Works (Step-by-Step):
+
 1. The program picks a random word from a list.
 2. The user is informed about the length of the word.
 3. The game prompts the user to guess.
@@ -21,6 +23,7 @@ A fun and interactive text-based game built in Python where the computer picks a
 5. The game loops until the correct password is guessed.
 
 💡 Bonus:
-You can easily extend the game by:
-Adding a word bank from a file.
-Introducing scoreboards or a timer.
+
+1.You can easily extend the game by:
+2.Adding a word bank from a file.
+3.Introducing scoreboards or a timer.

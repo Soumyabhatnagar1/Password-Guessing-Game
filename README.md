@@ -25,5 +25,5 @@ A fun and interactive text-based game built in Python where the computer picks a
 💡 Bonus:
 
 You can easily extend the game by:
-1.Adding a word bank from a file.
-2.Introducing scoreboards or a timer.
+ 1.Adding a word bank from a file.
+ 2.Introducing scoreboards or a timer.

@@ -1,4 +1,4 @@
-🔐 Password Guessing Game
+🔐#Password Guessing Game:
 A fun and interactive text-based game built in Python where the computer picks a secret password, and the user tries to guess it!
 
 🚀 What This Project Does:

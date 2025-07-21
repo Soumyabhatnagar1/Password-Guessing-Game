@@ -1,7 +1,7 @@
 # Password Guessing Game:
 A fun and interactive text-based game built in Python where the computer picks a secret password, and the user tries to guess it!
 
-3# 🚀 What This Project Does:
+## 🚀 What This Project Does:
 
 1. The computer randomly chooses a secret word (e.g., banana).
 2. The user keeps guessing the word.
